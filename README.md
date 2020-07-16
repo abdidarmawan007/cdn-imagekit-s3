@@ -28,8 +28,8 @@ content-type: image/png
 x-server: ImageKit.io
 cache-control: public, s-maxage=15552000, max-age=15552000, must-revalidate
 x-cache: Hit from cloudfront
-via: 1.1 4e3c79d06b4e17a0f3b574740ddc8206.cloudfront.net (CloudFront)
+via: 1.1 4e3c79d06b4e17a0f3bc8206.cloudfront.net (CloudFront)
 x-amz-cf-pop: SIN52-C3
-x-amz-cf-id: EEPA9b2amQBM0mVydpjemKkH81eJUoTCFCdHptDvfxRagEx6bzidiQ==
+x-amz-cf-id: EEPA9b2amQBM0mVJUoTCFCdHptDvfxRagEx6bzidiQ==
 age: 11959
 ```
