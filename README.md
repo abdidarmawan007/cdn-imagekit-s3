@@ -33,3 +33,8 @@ x-amz-cf-pop: SIN52-C3
 x-amz-cf-id: EEPA9b2amQBM0mVJUoTCFCdHptDvfxRagEx6bzidiQ==
 age: 11959
 ```
+
+### Test your images performance
+##### https://webspeedtest.cloudinary.com/
+![alt text](https://i.imgur.com/LBWJ5Pb.png)
+
