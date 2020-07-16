@@ -1,1 +1,1 @@
-## Imagekit real-time image optimization, resizing and a fast Image CDN
+## Real-time image optimization, resizing and Image CDN with Imagekit + S3
