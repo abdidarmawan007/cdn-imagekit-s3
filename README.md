@@ -14,4 +14,4 @@
 ![alt text](https://i.imgur.com/WNL71Xw.png)
 
 ### auto remove images metadata and png compression
-https://i.imgur.com/XODOaQi.png
+![alt text](https://i.imgur.com/XODOaQi.png)
