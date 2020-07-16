@@ -38,3 +38,14 @@ age: 11959
 ##### https://webspeedtest.cloudinary.com/
 ![alt text](https://i.imgur.com/LBWJ5Pb.png)
 
+
+### EXAMPLE USAGE
+```
+Master image (automatically optimized)
+https://ik.imagekit.io/10tn5i0v1n/rest/of/the/path/image.jpg
+Resized 300x300 image
+https://ik.imagekit.io/10tn5i0v1n/rest/of/the/path/image.jpg?tr=h-300,w-300
+Blurred image
+https://ik.imagekit.io/10tn5i0v1n/rest/of/the/path/image.jpg?tr=bl-10
+```
+![alt text](https://i.imgur.com/sqg8OK3.png)
