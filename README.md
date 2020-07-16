@@ -9,3 +9,6 @@
 
 ### Config for automated images optimize for format images and quelity
 ![alt text](https://i.imgur.com/GKY0a9w.png)
+
+### Restrict images size based on users device
+![alt text](https://i.imgur.com/WNL71Xw.png)
