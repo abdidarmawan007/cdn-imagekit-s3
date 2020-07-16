@@ -34,7 +34,7 @@ x-amz-cf-id: EEPA9b2amQBM0mVJUoTCFCdHptDvfxRagEx6bzidiQ==
 age: 11959
 ```
 
-### Test your images performance
+### Test your images performance, original images png 885KB, Imagekit automatically selects the best format and image quality to reduce the image size
 ##### https://webspeedtest.cloudinary.com/
 ![alt text](https://i.imgur.com/LBWJ5Pb.png)
 
