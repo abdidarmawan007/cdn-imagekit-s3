@@ -7,8 +7,11 @@
 ### Add origin S3 bucket in Imagekit (bucketname,S3 key id and secret)
 ![alt text](https://i.imgur.com/KTYGrnt.png)
 
-### Config for automated images optimize for format images and quelity
+### Config for automated images optimize for format images and quelity and Chrome Mobile and Opera Mobile allow users to activate a data-saver mode
 ![alt text](https://i.imgur.com/GKY0a9w.png)
 
 ### Restrict images size based on users device
 ![alt text](https://i.imgur.com/WNL71Xw.png)
+
+### auto remove images metadata and png compression
+https://i.imgur.com/XODOaQi.png
