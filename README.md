@@ -17,8 +17,8 @@
 ![alt text](https://i.imgur.com/XODOaQi.png)
 
 ### Test curl your images for check cache hit from pop
-### x-cache: Hit from cloudfront (hit from pop cloudfront)
-### x-amz-cf-pop: SIN52-C3 (hit cache from pop singapore)
+##### x-cache: Hit from cloudfront (hit from pop cloudfront)
+##### x-amz-cf-pop: SIN52-C3 (hit cache from pop singapore)
 ```
 curl -I https://ik.imagekit.io/3421i31n/catalog/a578c9ff0b6ec424853da33e73aef22d.png
 ```
