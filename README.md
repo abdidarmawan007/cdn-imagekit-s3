@@ -6,3 +6,6 @@
 
 ### Add origin S3 bucket in Imagekit (bucketname,S3 key id and secret)
 ![alt text](https://i.imgur.com/KTYGrnt.png)
+
+### Config for automated images optimize for format images and quelity
+![alt text](https://i.imgur.com/GKY0a9w.png)
